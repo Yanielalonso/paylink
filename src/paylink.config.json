@@ -1,0 +1,117 @@
+{
+  "theme": "minimalist-dark-theme",
+
+  "properties": {
+    "name": "Yaniel Alonso",
+    "description": "",
+    "alt": "Photo of Yaniel Alonso",
+    "hero": "./images/yaniel.png"
+  },
+
+  "Social": [
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/yaniel_alonso" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
+    { "label": "Discord", "type": "discord", "link": "" },
+    { "label": "Facebook", "type": "facebook", "link": "" },
+    { "label": "Medium", "type": "medium", "link": "" },
+    { "label": "Pinterest", "type": "pinterest", "link": "" },
+    { "label": "Snapchat", "type": "snapchat", "link": "" },
+    { "label": "Telegram", "type": "telegram", "link": "https://t.me/Y4N137" },
+    { "label": "TikTok", "type": "tiktok", "link": "" },
+    { "label": "Twitch", "type": "twitch", "link": "" },
+    { "label": "Vimeo", "type": "vimeo", "link": "" },
+    { "label": "WhatsApp", "type": "whatsapp", "link": "https://wa.me/+5354901161?text=Paylink" },
+    { "label": "YouTube", "type": "youtube", "link": "" },
+    { "label": "Product Hunt", "type": "product-hunt", "link": "" }
+  ],
+
+  "Payments": [
+    {
+      "id": "btc",
+      "label": "Bitcoin",
+      "value": "",
+      "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "busd",
+      "label": "BinanceUSD",
+      "value": "",
+      "img": "./images/payments/busd.svg"
+    },
+    {
+      "id": "matic",
+      "label": "Matic",
+      "value": "",
+      "img": "./images/payments/matic.svg"
+    },
+    {
+      "id": "doge",
+      "label": "DogeCoin",
+      "value": "",
+      "img": "./images/payments/doge.svg"
+    },
+    {
+      "id": "eth",
+      "label": "Ethereum",
+      "value": "",
+      "img": "./images/payments/eth.svg"
+    },
+    {
+      "id": "ltc",
+      "label": "Litecoin",
+      "value": "",
+      "img": "./images/payments/ltc.svg"
+    },
+    {
+      "id": "paypal",
+      "label": "Paypal",
+      "value": "",
+      "img": "./images/payments/paypal.svg"
+    },
+    {
+      "id": "usdt",
+      "label": "USDT",
+      "value": "",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "qvapay",
+      "label": "QvaPay",
+      "value": "https://qvapay.com/payme/Y4N137",
+      "img": "./images/payments/qvapay.svg"
+    },
+    {
+      "id": "sol",
+      "label": "Solana",
+      "value": "",
+      "img": "./images/payments/sol.svg"
+    },
+    {
+      "id": "Tropipay",
+      "label": "Tropipay",
+      "value": "https://tppay.me/l886qagt",
+      "img": "./images/payments/tropipay.svg"
+    },
+    {
+      "id": "trx",
+      "label": "Tron",
+      "value": "",
+      "img": "./images/payments/trx.svg"
+    },
+    {
+      "id": "card",
+      "label": "MLC",
+      "value": "9235 1299 7479 4799",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "CUP",
+      "value": "9238 1299 7117 3820",
+      "img": "./images/payments/card.svg"
+    }
+  ]
+}
