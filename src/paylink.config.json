@@ -103,13 +103,13 @@
     },
     {
       "id": "card",
-      "label": "MLC",
+      "label": "Tarjeta MLC",
       "value": "9235 1299 7479 4799",
       "img": "./images/payments/card.svg"
     },
     {
       "id": "card",
-      "label": "CUP",
+      "label": "Tarjeta CUP",
       "value": "9238 1299 7117 3820",
       "img": "./images/payments/card.svg"
     }
