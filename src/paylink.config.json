@@ -93,7 +93,7 @@
       "id": "Tropipay",
       "label": "Tropipay",
       "value": "https://tppay.me/l886qagt",
-      "img": "./images/payments/tpay.svg"
+      "img": "./images/payments/tpay.png"
     },
     {
       "id": "trx",
